@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ¡Hola! Soy un apasionado desarrollador con 4 años de experiencia en el emocionante mundo de la tecnología. A lo largo de mi carrera, he dominado tecnologías como Java, Node.js, Angular y React, y he explorado en profundidad servicios de la nube, incluyendo AWS. Mi pasión no solo radica en construir y optimizar aplicaciones, sino también en mi constante deseo de aprender y adaptarme a nuevas tecnologías.<br><br>Estoy siempre en búsqueda de oportunidades que me retan y me permiten crecer. Creo firmemente que la mejor manera de predecir el futuro es inventarlo. ¡Vamos a conectar y crear algo innovador juntos!
+👋 ¡Hola! Soy un apasionado desarrollador con mas de 5 años de experiencia en el emocionante mundo de la tecnología. A lo largo de mi carrera, he dominado tecnologías como Java, Node.js, Angular y React, y he explorado en profundidad servicios de la nube, incluyendo AWS. Mi pasión no solo radica en construir y optimizar aplicaciones, sino también en mi constante deseo de aprender y adaptarme a nuevas tecnologías.<br><br>Estoy siempre en búsqueda de oportunidades que me retan y me permiten crecer. Creo firmemente que la mejor manera de predecir el futuro es inventarlo. ¡Vamos a conectar y crear algo innovador juntos!
 
 
 ## 🌐 Socials:
